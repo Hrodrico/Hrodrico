@@ -1,43 +1,50 @@
-# Hey 👋 What's up?
+# ¡Hola! 👋 ¿Qué tal?
 
-My name is Rodrigo and I'm a computer engineer from Santiago, Chile.
+Soy Rodrigo, **ingeniero en desarrollo de software** y **desarrollador Full Stack** de Santiago, Chile, con más de 15 años de experiencia construyendo software para consultoras de TI, banca y seguros.
 
-## About me
+## Sobre mí
 
-I'm a Full Stack Developer.
+- 💼 Actualmente trabajo como **desarrollador Full Stack en Babel**.
+- 🏢 Antes pasé por **Falabella Tecnología**, **Trebol-it** (más de 10 años como ingeniero de software) y **EMIS**.
+- ⚙️ Trabajo de punta a punta: frontend con **React**, **Next.js** y **TypeScript**; backend con **Node.js / NestJS** y **Java / Spring Boot**, sobre bases de datos SQL y NoSQL.
+- 🧩 Proyecto destacado: [business-web-starter](https://github.com/Hrodrico/business-web-starter), una plantilla reutilizable en Next.js y Tailwind CSS para landing pages de negocios, desplegada en Vercel.
+- 🎓 Ingeniero de ejecución en Informática (**Duoc UC**) y certificado en **React JS** (Coderhouse).
+- 🌱 Me considero responsable, metódico y siempre con ganas de seguir aprendiendo.
+- 📫 Puedes contactarme por [LinkedIn](https://www.linkedin.com/in/rodrigo-raggi-palma-67537158/).
 
-## Social
+## Redes
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rodrigo-raggi-palma-67537158/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/hrodrico/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="40" alt="Instagram" /></a>
-  <a href="https://www.facebook.com/paltunning/"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="40" alt="Facebook" /></a>
+  <a href="https://www.linkedin.com/in/rodrigo-raggi-palma-67537158/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/hrodrico/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
 </p>
 
-## Tech Stack
+## Tecnologías
+
+| | |
+|---|---|
+| **Lenguajes** | <img src="https://skillicons.dev/icons?i=js,ts,java,cs,perl,html,css" alt="JavaScript, TypeScript, Java, C#, Perl, HTML, CSS" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,redux,angular,tailwind,materialui,bootstrap,jquery" alt="React, Next.js, Redux, Angular, Tailwind CSS, Material UI, Bootstrap, jQuery" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql" alt="Node.js, NestJS, GraphQL" /> |
+| **Bases de datos** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sequelize" alt="MySQL, PostgreSQL, MongoDB, Firebase, Sequelize" /> |
+| **Herramientas** | <img src="https://skillicons.dev/icons?i=git,github,docker,npm,yarn,jest" alt="Git, GitHub, Docker, npm, Yarn, Jest" /> |
+
+## Lenguajes más usados
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,cs,perl,html,css,react,nextjs,redux,jquery,bootstrap,materialui,nodejs,nestjs,mysql,postgres,firebase,mongodb,sequelize,graphql,docker,github,git,npm,yarn,jest&perline=10" alt="Tech stack" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="48" alt="AngularJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="48" alt="Tomcat" />
-</p>
-
-## Most Used
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hrodrico&locale=en&layout=compact&card_width=320&langs_count=5&theme=tokyonight" height="150" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hrodrico&locale=es&layout=compact&card_width=320&langs_count=5&theme=tokyonight" height="150" alt="Lenguajes más usados" />
 </p>
 
 <p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hrodrico.Hrodrico" alt="Visitor count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hrodrico.Hrodrico" alt="Contador de visitas" />
 </p>
 
-## Game Over!
+## ¡Game Over!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hrodrico/Hrodrico/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hrodrico/Hrodrico/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Hrodrico/Hrodrico/output/pacman-contribution-graph.svg">
+  <img alt="Gráfico de contribuciones Pac-Man" src="https://raw.githubusercontent.com/Hrodrico/Hrodrico/output/pacman-contribution-graph.svg">
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=random" width="100%" alt="" />
