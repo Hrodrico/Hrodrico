@@ -8,9 +8,9 @@ Soy Rodrigo, **ingeniero en desarrollo de software** y **desarrollador Full Stac
 - 🏢 Antes pasé por **Falabella Tecnología**, **Trebol-it** (más de 10 años como ingeniero de software) y **EMIS**.
 - ⚙️ Trabajo de punta a punta: frontend con **React**, **Next.js** y **TypeScript**; backend con **Node.js / NestJS** y **Java / Spring Boot**, sobre bases de datos SQL y NoSQL.
 - 🧩 Proyecto destacado: [business-web-starter](https://github.com/Hrodrico/business-web-starter), una plantilla reutilizable en Next.js y Tailwind CSS para landing pages de negocios, desplegada en Vercel.
+- 🏗️ Como hobby, hice el sitio web de [Noua Construcción](https://www.noua.cl), una empresa de construcción y remodelaciones en Santiago.
 - 🎓 Ingeniero de ejecución en Informática (**Duoc UC**) y certificado en **React JS** (Coderhouse).
 - 🌱 Me considero responsable, metódico y siempre con ganas de seguir aprendiendo.
-- 📫 Puedes contactarme por [LinkedIn](https://www.linkedin.com/in/rodrigo-raggi-palma-67537158/).
 
 ## Redes
 
@@ -21,13 +21,32 @@ Soy Rodrigo, **ingeniero en desarrollo de software** y **desarrollador Full Stac
 
 ## Tecnologías
 
-| | |
-|---|---|
-| **Lenguajes** | <img src="https://skillicons.dev/icons?i=js,ts,java,cs,perl,html,css" alt="JavaScript, TypeScript, Java, C#, Perl, HTML, CSS" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,redux,angular,tailwind,materialui,bootstrap,jquery" alt="React, Next.js, Redux, Angular, Tailwind CSS, Material UI, Bootstrap, jQuery" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql" alt="Node.js, NestJS, GraphQL" /> |
-| **Bases de datos** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sequelize" alt="MySQL, PostgreSQL, MongoDB, Firebase, Sequelize" /> |
-| **Herramientas** | <img src="https://skillicons.dev/icons?i=git,github,docker,npm,yarn,jest" alt="Git, GitHub, Docker, npm, Yarn, Jest" /> |
+<table>
+  <tr>
+    <th>Área</th>
+    <th>Stack</th>
+  </tr>
+  <tr>
+    <td><b>Lenguajes</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,java,cs,perl,html,css" alt="JavaScript, TypeScript, Java, C#, Perl, HTML, CSS" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,redux,angular,tailwind,materialui,bootstrap,jquery" alt="React, Next.js, Redux, Angular, Tailwind CSS, Material UI, Bootstrap, jQuery" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql" alt="Node.js, NestJS, GraphQL" /></td>
+  </tr>
+  <tr>
+    <td><b>Bases de datos</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sequelize" alt="MySQL, PostgreSQL, MongoDB, Firebase, Sequelize" /></td>
+  </tr>
+  <tr>
+    <td><b>Herramientas</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,docker,npm,yarn,jest" alt="Git, GitHub, Docker, npm, Yarn, Jest" /></td>
+  </tr>
+</table>
 
 ## Lenguajes más usados
 
